@@ -1,7 +1,7 @@
 // Write your solution in this file!
 const employee = {
-    name: "Richard",
-    streetaddress: "Ngeti"
+    name: "Bryan",
+    streetaddress: "Waweru"
 };
 
 function updateEmployeeWithKeyAndValue(obj, key, value) {
@@ -44,4 +44,3 @@ function deleteFromEmployeeByKey(obj, key, value){
 
     };
 
-.    
